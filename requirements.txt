@@ -1,0 +1,17 @@
+# Core packages
+snowflake-snowpark-python
+streamlit
+pandas
+numpy
+
+# For working with ML models or preprocessing (optional but useful)
+scikit-learn
+nltk
+openai  # If using external LLM fallback
+
+# Optional visualization
+matplotlib
+plotly
+
+# For loading environment variables
+python-dotenv
