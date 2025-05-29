@@ -25,7 +25,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/salessense.git
+git clone https://github.com/coderavijit/salessense.git
 cd salessense
 pip install -r requirements.txt
 ```
