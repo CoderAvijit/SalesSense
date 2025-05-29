@@ -83,4 +83,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by [Avijit Rana](https://github.com/AvijitRana7)
+Developed with ❤️ by SnowPals
